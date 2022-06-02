@@ -1,12 +1,12 @@
 name: lint
-on: [push]
+on: [ push ]
 jobs:
   check-linter:
     runs-on: ubuntu-latest
     steps:
       - name: Install
-          run:
-            make install
+        run:
+          make install
       - name: Linter-check
         run:
-            make lint
+          make lint
