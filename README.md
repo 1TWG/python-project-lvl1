@@ -6,3 +6,6 @@
 
 ### Linter check:
 [![Python CI](https://github.com/1TWG/python-project-lvl1/workflows/lint/badge.svg)](https://github.com/1TWG/python-project-lvl1/actions)
+
+### brain-even
+[![asciicast](https://asciinema.org/a/JWsyab1O5uK01YcrFR9eRlGIO.svg)](https://asciinema.org/a/JWsyab1O5uK01YcrFR9eRlGIO)
