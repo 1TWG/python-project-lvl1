@@ -5,4 +5,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/1TWG/python-project-lvl1)
 
 ### Linter check:
-[![Python CI](https://github.com/1TWG/python-project-lvl1/actions/workflows/lint.yml/badge.svg)](https://github.com/1TWG/python-project-lvl1/actions/workflows/lint.yml)
+[![Python CI](https://github.com/1TWG/python-project-lvl1/workflows/lint/badge.svg)](https://github.com/1TWG/python-project-lvl1/actions)
