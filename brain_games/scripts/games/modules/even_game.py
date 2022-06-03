@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import random
-from brain_games.scripts.games.check_yes_or_no import check_yes_or_no
+from brain_games.scripts.games.modules.check_yes_or_no import check_yes_or_no
 
 
 def even_game():

@@ -12,3 +12,6 @@
 
 ### brain-calc preview
 <a href="https://asciinema.org/a/Ded1ff1aINjsiJghrxdFVPZsT" target="_blank"><img src="https://asciinema.org/a/Ded1ff1aINjsiJghrxdFVPZsT.svg" /></a>
+
+### brain-gcd preview
+<a href="https://asciinema.org/a/uSu5qg6pY6LxbmxBLQYLroNL1" target="_blank"><img src="https://asciinema.org/a/uSu5qg6pY6LxbmxBLQYLroNL1.svg" /></a>

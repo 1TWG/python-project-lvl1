@@ -7,7 +7,7 @@ from brain_games.scripts.games.modules.game_logic import game_logic
 def main():
     print('Welcome to the Brain Games!')
     player_name = welcome_user()
-    game_logic(player_name, 1)
+    game_logic(player_name, 2)
     print(f'Congratulations, {player_name}!!!')
 
 

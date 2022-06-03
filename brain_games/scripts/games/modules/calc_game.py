@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import random
-from brain_games.scripts.games.check_number import check_number
+from brain_games.scripts.games.modules.check_number import check_number
 
 
 def calc_game():
