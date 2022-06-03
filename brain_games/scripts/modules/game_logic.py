@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
-from brain_games.scripts.games.modules.even_game import even_game
-from brain_games.scripts.games.modules.calc_game import calc_game
-from brain_games.scripts.games.modules.gcd_game import gcd_game
-from brain_games.scripts.games.modules.check_score import check_score
+from brain_games.scripts.modules.even_game import even_game
+from brain_games.scripts.modules.calc_game import calc_game
+from brain_games.scripts.modules.gcd_game import gcd_game
+from brain_games.scripts.modules.check_score import check_score
 
 
 def game_logic(name, game_flag=0):

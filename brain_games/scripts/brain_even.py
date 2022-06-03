@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-from brain_games.scripts.games.modules.welcome_user import welcome_user
-from brain_games.scripts.games.modules.game_logic import game_logic
+from brain_games.scripts.modules.welcome_user import welcome_user
+from brain_games.scripts.modules.game_logic import game_logic
 
 
 def main():
