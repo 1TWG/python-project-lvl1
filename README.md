@@ -7,8 +7,8 @@
 ### Linter check:
 [![Python CI](https://github.com/1TWG/python-project-lvl1/workflows/lint/badge.svg)](https://github.com/1TWG/python-project-lvl1/actions)
 
-### brain-even
+### brain-even preview
 [![asciicast](https://asciinema.org/a/JWsyab1O5uK01YcrFR9eRlGIO.svg)](https://asciinema.org/a/JWsyab1O5uK01YcrFR9eRlGIO)
 
-### brain-calc
+### brain-calc preview
 <a href="https://asciinema.org/a/Ded1ff1aINjsiJghrxdFVPZsT" target="_blank"><img src="https://asciinema.org/a/Ded1ff1aINjsiJghrxdFVPZsT.svg" /></a>
