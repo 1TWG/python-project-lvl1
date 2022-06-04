@@ -38,3 +38,7 @@ def game_logic(name, game_flag=0):  # noqa: C901
         elif game_flag == 4:
             res = prime_game()
             score = check_score(score, res, name)
+        if score == 0:
+            break
+    if score == 3:
+        print(f'Congratulations, {name}!')

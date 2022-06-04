@@ -8,7 +8,7 @@ def main():
     print('Welcome to the Brain Games!')
     player_name = welcome_user()
     game_logic(player_name, 0)
-    print(f'Congratulations, {player_name}!')
+
 
 
 if __name__ == '__main__':
