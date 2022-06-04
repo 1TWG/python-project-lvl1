@@ -6,6 +6,6 @@ def check_score(score, res, name):  # example (True, answer, 'no')
         print('Correct!')
         return score
     else:
-        print(f'"{res[1]}" is wrong answer ;(.Correct answer was "{res[2]}"')
+        print(f"'{res[1]}' is wrong answer ;(. Correct answer was '{res[2]}'.")
         print(f'Let\'s try again, {name}!')
         return 0
