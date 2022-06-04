@@ -10,6 +10,5 @@ def main():
     game_logic(player_name, 0)
 
 
-
 if __name__ == '__main__':
     main()
