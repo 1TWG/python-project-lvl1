@@ -18,3 +18,6 @@
 
 ### brain-progression preview
 <a href="https://asciinema.org/a/FFHLX8o32msrWom0ZRCoGUUkb" target="_blank"><img src="https://asciinema.org/a/FFHLX8o32msrWom0ZRCoGUUkb.svg" /></a>
+
+### brain-prime preview
+<a href="https://asciinema.org/a/BwMNGnwqfkaxCBrpyukrFnVOZ" target="_blank"><img src="https://asciinema.org/a/BwMNGnwqfkaxCBrpyukrFnVOZ.svg" /></a>

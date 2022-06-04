@@ -10,8 +10,9 @@ def progression_game():
     coef = random.randint(1, 20)
     progression = [i * coef for i in list(range(1, len_progression + 1))]
     res = progression[quest_position]
-    quest_list = progression[0:quest_position] + ['..'] + progression[quest_position + 1:]
-    print(f'Question:', end=' ')
+    quest_list = progression[0:quest_position] + ['..']
+    quest_list += progression[quest_position + 1:]
+    print('Question:', end=' ')
     for i in quest_list:
         print(i, end=' ')
     print()
