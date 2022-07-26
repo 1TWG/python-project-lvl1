@@ -8,16 +8,12 @@
 [![Python CI](https://github.com/1TWG/python-project-lvl1/workflows/lint/badge.svg)](https://github.com/1TWG/python-project-lvl1/actions)
 
 ### brain-even preview
-[![asciicast](https://asciinema.org/a/JWsyab1O5uK01YcrFR9eRlGIO.svg)](https://asciinema.org/a/JWsyab1O5uK01YcrFR9eRlGIO)
-
+<a href="https://asciinema.org/a/y26S2yed2SasSO6qrpknjOKUU" target="_blank"><img src="https://asciinema.org/a/y26S2yed2SasSO6qrpknjOKUU.svg" /></a>
 ### brain-calc preview
-<a href="https://asciinema.org/a/Ded1ff1aINjsiJghrxdFVPZsT" target="_blank"><img src="https://asciinema.org/a/Ded1ff1aINjsiJghrxdFVPZsT.svg" /></a>
-
+<a href="https://asciinema.org/a/aGhpYJQQxuiFWeyhcZXCGlI7X" target="_blank"><img src="https://asciinema.org/a/aGhpYJQQxuiFWeyhcZXCGlI7X.svg" /></a>
 ### brain-gcd preview
-<a href="https://asciinema.org/a/uSu5qg6pY6LxbmxBLQYLroNL1" target="_blank"><img src="https://asciinema.org/a/uSu5qg6pY6LxbmxBLQYLroNL1.svg" /></a>
-
+<a href="https://asciinema.org/a/dpRT7HI9a7zi0oI5hgvqMowRR" target="_blank"><img src="https://asciinema.org/a/dpRT7HI9a7zi0oI5hgvqMowRR.svg" /></a>
 ### brain-progression preview
-<a href="https://asciinema.org/a/FFHLX8o32msrWom0ZRCoGUUkb" target="_blank"><img src="https://asciinema.org/a/FFHLX8o32msrWom0ZRCoGUUkb.svg" /></a>
-
+<a href="https://asciinema.org/a/IQ6xPBxCaKjEz17Y7IwXVwiB4" target="_blank"><img src="https://asciinema.org/a/IQ6xPBxCaKjEz17Y7IwXVwiB4.svg" /></a>
 ### brain-prime preview
-<a href="https://asciinema.org/a/BwMNGnwqfkaxCBrpyukrFnVOZ" target="_blank"><img src="https://asciinema.org/a/BwMNGnwqfkaxCBrpyukrFnVOZ.svg" /></a>
+<a href="https://asciinema.org/a/2keABrqcaMHZz5YcOwzXc74RP" target="_blank"><img src="https://asciinema.org/a/2keABrqcaMHZz5YcOwzXc74RP.svg" /></a>
